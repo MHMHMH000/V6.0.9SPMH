@@ -27,6 +27,8 @@ MHc94131f-
 MH52c86adc-
 MH264d64c-
 MHdf5c6a13-
+#WAKEO
+MH281fcc8a-
 #PAK
 MHca5ac2f4-
 #JUM
