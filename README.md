@@ -13,6 +13,8 @@ MH301dcc1a-
 #MRIC
 MHbe9301f-
 MH2a6b33d-
+MH264d64c-
+MH2cf4fcb-
 #KATBER
 MHd06eed24-
 MH89dfc802-
